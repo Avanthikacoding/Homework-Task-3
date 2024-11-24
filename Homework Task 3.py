@@ -1,0 +1,8 @@
+name = input("Enter your name:")
+print("Congratulations ",name)
+yourname = input("What is your best friend's name!")
+print("Well, good for your best friend " ,yourname)
+names = input("Lastly, what are your parents name!")
+print("Well, make sure your listen to your parents " ,names)
+bye = input("Goodbye Avanthika!")
+print(bye)
